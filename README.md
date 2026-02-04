@@ -16,7 +16,7 @@ I'm Fatima, a passionate Data Engineer & Analyst.</p>
 #### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FF69B4?style=for-the-badge&logo=dataiku&logoColor=white) <!-- Generic ETL badge, Dataiku logo is often used -->
+![ETL](https://img.shields.io/badge/ETL-FF69B4?style=for-the-badge&logo=dataiku&logoColor=white) 
 
 #### Databases & Cloud Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,5 +31,6 @@ I'm Fatima, a passionate Data Engineer & Analyst.</p>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-00366D?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-2780E3?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-82C5D1?style=for-the-badge&logo=seaborn&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
